@@ -6,3 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Silfiatul Ulumiyah, [LinkedId](https://www.linkedin.com/in/silfiatul-ulumiyah/).
